@@ -27,8 +27,8 @@
 
 #import <Flutter/Flutter.h>
 #import <AVFoundation/AVFoundation.h>
-#import <flutter_sound_core/FlautoPlayer.h>
-#import <flutter_sound_core/Flauto.h>
+#import <baikal_flutter_sound_core/FlautoPlayer.h>
+#import <baikal_flutter_sound_core/Flauto.h>
 #include "FlutterSoundManager.h"
 #include "FlutterSoundPlayerManager.h"
 
